@@ -1,0 +1,21 @@
+[
+  {
+    "title" : "Sonic the Hedgehog",
+    "system": "Sega Genesis",
+    "yearReleased": "1991",
+    "numberOfPlayers": "1"
+  },
+  {
+    "title" : "Black and White",
+    "system": "PC",
+    "yearReleased": "2001",
+    "numberOfPlayers": "1"
+  },
+  {
+    "title" : "Overwatch",
+    "system": "PC",
+    "yearReleased": "2016",
+    "numberOfPlayers": "up to 12"
+  }
+]
+

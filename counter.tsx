@@ -1,5 +1,6 @@
 import * as React from 'react';
 import Count from './count';
+import './css/styles.css'
 
 interface Props {}
 
@@ -26,7 +27,7 @@ export default class Counter extends React.Component {
 
   render () {
     return (
-      <div>
+      <div className="testClass">
         <Count count={this.state.count}/>
         <button onClick={this.increment}>Increment</button>
         <button onClick={this.decrement}>Decrement</button>
